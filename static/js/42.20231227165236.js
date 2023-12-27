@@ -1,2 +1,0 @@
-webpackJsonp([42],{YpSi:function(e,t){},bT34:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"teacher-class-mana"},[t("router-view")],1)},staticRenderFns:[]};var a=n("VU/8")({data:function(){return{}}},r,!1,function(e){n("YpSi")},null,null);t.default=a.exports}});
-//# sourceMappingURL=42.20231227165236.js.map
