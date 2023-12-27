@@ -1,0 +1,11 @@
+{
+  "Host": "192.168.0.158",
+  "AMSHost": "192.168.0.158",
+  "Port": "50113",
+  "RECHost": "192.168.0.158",
+  "RecPort": "50111",
+  "webSocketPort": "50114",
+  "H5Port": "50200",
+  "UnifiedloginURL":"http://192.168.0.105:8000",
+  "UnifiedloginOutUrl":"http://192.168.0.105:8000/Logout.aspx"
+}
